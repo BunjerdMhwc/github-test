@@ -8,6 +8,7 @@ edit 1
 edit 2
 master featuresssss
 master feature4444
-แก้ไขของตัวเอง 
+แก้ไขของตัวเอง
 แก้ไข ISMASTER
 มีคนอื่นแก้ไขแล้ว push มายัง remote
+แก้ไขของตัวเองอีกครั้ง
