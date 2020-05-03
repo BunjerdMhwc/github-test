@@ -10,3 +10,4 @@ master featuresssss
 master feature4444
 แก้ไขของตัวเอง 
 แก้ไข ISMASTER
+มีคนอื่นแก้ไขแล้ว push มายัง remote
