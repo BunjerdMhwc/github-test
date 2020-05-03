@@ -8,3 +8,4 @@ edit 1
 edit 2
 master featuresssss
 master feature4444
+มีคนอื่นแก้ไขแล้ว push มายัง remote
